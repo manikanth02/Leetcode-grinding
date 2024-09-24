@@ -3,3 +3,5 @@
 2.[Minimum no of seconds to make mountains heights 0](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/description/)
 
 3.[Count substrings that can be rearranged to form strings that contains word1 as prefix](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/description/)
+
+4.[Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/description/)

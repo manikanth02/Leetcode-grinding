@@ -5,3 +5,5 @@
 3.[Count substrings that can be rearranged to form strings that contains word1 as prefix](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/description/)
 
 4.[Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/description/)
+
+5.[Maximize Scores of Numbers in Range](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/description/)

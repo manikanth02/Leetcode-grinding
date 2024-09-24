@@ -7,3 +7,6 @@
 4.[Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/description/)
 
 5.[Maximize Scores of Numbers in Range](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/description/)
+
+6.[Find the length of the longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/?envType=daily-question&envId=2024-09-24)
+

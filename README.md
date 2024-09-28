@@ -13,3 +13,5 @@
 7.[Selecte Cells in Grid with maximum values](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/description/) (****)
 
 8.[Count Almost equal Pairs](https://leetcode.com/problems/count-almost-equal-pairs-i/description/)
+
+10.[Find the largest  n digit palindrome that is divisible by k](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/description/)

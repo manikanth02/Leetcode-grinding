@@ -16,6 +16,4 @@
 
 9.[Maximum Energy Boost from two drinks](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/)(****)
 
-
-
 10.[Find the largest  n digit palindrome that is divisible by k](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/description/)

@@ -20,3 +20,4 @@
 
 11.[Final Array State after k multiplications](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)
 
+12.[Count Almost equal Pairs](https://leetcode.com/problems/count-almost-equal-pairs-i/)

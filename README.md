@@ -26,3 +26,5 @@
 12.[Count Almost equal Pairs](https://leetcode.com/problems/count-almost-equal-pairs-i/)
 
 13.[Prime Subtraction Operations](https://leetcode.com/problems/prime-subtraction-operation/description/?envType=daily-question&envId=2024-11-11)
+
+14.[Count the no of fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/?envType=daily-question&envId=2024-11-13)
